@@ -29,6 +29,8 @@ The Notebook has the purpose to analyze the data to answer the following questio
 The findings for each of these topics can be found directly in the notebook,
 with plots and explanations at every step.
 
+You can find and article based on this analysis [here](https://medium.com/@roberto.de.monte5/these-are-the-5-most-satisfying-developers-roles-in-the-world-f0e96da134e1#36f9-db6d03f47948).
+
 ---
 
 # Contributing
